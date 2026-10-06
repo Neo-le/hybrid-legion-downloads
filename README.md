@@ -1,33 +1,45 @@
-# Hybrid Legion — Android 테스트
+# Hybrid Legion — Free Beta / 무료 테스트
 
-몬스터를 수집하고 합성해 부대를 키우는 자동 전투 게임입니다.
+Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. The beta has 100 collectible monsters, 50 fusion recipes, and 30 regions.
 
-## 다운로드
+## Download / 다운로드
 
-**[Android APK 다운로드 — 1.0 (12), 약 391 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-12/HybridLegion-1.0-12.apk)**
+**[Android APK — 1.0 (13), about 391 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-13/HybridLegion-1.0-13.apk)**
 
-Android 8.0 이상 · ARM64 기기용 테스트 빌드입니다. iPhone에서는 이 APK를 설치할 수 없습니다.
+Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-## 설치 방법
+**[iPhone / iPad — Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS 15 or later. Install the latest available build in TestFlight.
 
-1. Android 휴대폰의 Chrome 등 브라우저에서 다운로드 링크를 엽니다. 카카오톡 안에서 다운로드가 안 되면 메뉴에서 외부 브라우저로 열어 주세요.
-2. 다운로드한 `HybridLegion-1.0-12.apk`를 열고 설치합니다.
-3. 설치 권한 안내가 나오면 파일을 연 브라우저 또는 파일 앱의 **이 출처 허용 / 알 수 없는 앱 설치**를 허용한 뒤 설치 화면으로 돌아갑니다. 설치 뒤에는 해당 권한을 다시 끌 수 있습니다. 기기에 따라 메뉴 이름이 다릅니다.
-4. 기존 버전이 있다면 삭제하지 말고 업데이트로 설치하세요. 앱을 삭제하면 기기에 저장된 진행 상황도 사라질 수 있습니다.
+## English / 한국어
 
-## 이번 빌드
+Build 13 adds English and Korean. Go to **Settings → Language → English / 한국어**. Changes apply immediately and are saved for your next session. On the first launch, Korean devices start in Korean; other devices start in English.
 
-- 100종 수집 몬스터, 30개 지역.
-- 24~29지역 마지막 6장을 추가해 7~30지역 새 전투 배경 완성.
-- 모든 지역에 일반전·보스전 전용 BGM 연결.
-- 실제 Android 기기 테스트를 위한 빌드입니다. 기기별 실행·음량·성능 확인이 필요합니다.
+13번 빌드부터 **설정 → 언어 → 한국어 / English**에서 전환할 수 있습니다. 변경은 바로 적용되고 다음 실행에도 유지됩니다.
 
-문제가 생기면 개발자에게 기종, Android 버전, 발생 화면을 함께 알려 주세요.
+## Install on Android / Android 설치
 
-## 파일 확인
+1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
+2. Open `HybridLegion-1.0-13.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud save and account recovery are not connected.
 
-- 버전: 1.0 (12)
-- 파일 크기: 390,717,659 bytes
-- SHA-256: `773c938dd50e7f41c6195ffedc6de730122cb21d6c91ab728d60ec0c107f41c9`
+1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
+2. APK를 열어 설치합니다. 요청되면 해당 브라우저·파일 앱의 `이 출처 허용 / 알 수 없는 앱 설치`를 허용하고, 설치 후에는 다시 끌 수 있습니다.
+3. **기존 앱을 삭제하지 말고 업데이트하세요.** 진행은 기기 로컬에 저장되며 클라우드 저장·복구는 연결돼 있지 않습니다.
 
-이 저장소는 테스트용 설치 파일과 안내를 배포합니다. 게임 및 콘텐츠의 권리는 제작자에게 있습니다.
+## Feedback / 피드백
+
+Try playing for 10–15 minutes. We would love feedback on the early difficulty, how clear fusion feels, awkward English, UI issues, crashes, and performance. Include your device, OS version, build number, and where you stopped.
+
+첫 플레이·합성 이해도·초반 난이도·영어 표현·화면 문제·끊김·종료 문제를 알려 주세요. 기종·OS·빌드·진행 위치를 함께 적으면 도움이 됩니다.
+
+This is a free beta. Ads and passes currently use test implementations, with no real purchases. Physical device testing is ongoing.
+
+무료 테스트입니다. 광고·패스는 테스트용 구현이며 실제 결제가 발생하지 않습니다. 실기기 검증은 계속 진행합니다.
+
+## File verification / 파일 확인
+
+- Version: 1.0 (13)
+- Size: 390,784,251 bytes
+- SHA-256: `8645896785dfe5e34384ecc55c3c33bc7e71de2cedcb6494ce69befb314d56b8`
+
+This repository distributes beta installers and instructions. All game and content rights remain with the creator.
