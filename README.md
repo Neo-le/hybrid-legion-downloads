@@ -8,7 +8,7 @@ Hatch, collect, and fuse monsters into a team of four. Battles run automatically
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-**[iPhone / iPad — Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS 15 or later. Install the latest available build in TestFlight.
+**[iPhone / iPad — Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Install build 1.0 (13) in TestFlight.
 
 ## English / 한국어
 
