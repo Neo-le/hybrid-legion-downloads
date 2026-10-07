@@ -4,11 +4,17 @@ Hatch, collect, and fuse monsters into a team of four. Battles run automatically
 
 ## Download / 다운로드
 
-**[Android APK — 1.0 (13), about 391 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-13/HybridLegion-1.0-13.apk)**
+**[Android APK — 1.0 (14), about 391 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-14/HybridLegion-1.0-14.apk)**
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-**[iPhone / iPad — Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Install build 1.0 (13) in TestFlight.
+**[iPhone / iPad — Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. The latest iPhone/iPad build is shown in TestFlight. / iPhone·iPad 최신 빌드는 TestFlight에서 확인하세요.
+
+## Build 14 / 14번 빌드
+
+Closer melee contact and smoother knockback; a daily free Rare Egg; buy 1 or 10 eggs; continuous hatching and full odds; a combined Monster and Growth screen; touch scrolling; growth suggestions after defeat; and balance updates in later regions. No account linking is required.
+
+근접 타격·피격·넉백, 매일 레어 알, 1개/10개 구매, 연속 부화와 확률표, 통합 몬스터 화면과 손가락 스크롤, 패배 후 성장 추천과 후반 지역 밸런스를 개선했습니다. 계정 연동 없이 플레이할 수 있습니다.
 
 ## English / 한국어
 
@@ -19,7 +25,7 @@ Build 13 adds English and Korean. Go to **Settings → Language → English / �
 ## Install on Android / Android 설치
 
 1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
-2. Open `HybridLegion-1.0-13.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+2. Open `HybridLegion-1.0-14.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
 3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud save and account recovery are not connected.
 
 1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
@@ -32,14 +38,14 @@ Try playing for 10–15 minutes. We would love feedback on the early difficulty,
 
 첫 플레이·합성 이해도·초반 난이도·영어 표현·화면 문제·끊김·종료 문제를 알려 주세요. 기종·OS·빌드·진행 위치를 함께 적으면 도움이 됩니다.
 
-This is a free beta. Ads and passes currently use test implementations, with no real purchases. Physical device testing is ongoing.
+This is a free beta with no real purchases. Progress stays on the device. Physical device testing is ongoing.
 
-무료 테스트입니다. 광고·패스는 테스트용 구현이며 실제 결제가 발생하지 않습니다. 실기기 검증은 계속 진행합니다.
+무료 테스트이며 실제 결제는 연결돼 있지 않습니다. 진행은 기기에 저장됩니다. 실기기 검증은 계속 진행합니다.
 
 ## File verification / 파일 확인
 
-- Version: 1.0 (13)
-- Size: 390,784,251 bytes
-- SHA-256: `8645896785dfe5e34384ecc55c3c33bc7e71de2cedcb6494ce69befb314d56b8`
+- Version: 1.0 (14)
+- Size: 390,894,295 bytes
+- SHA-256: `46d824010b4eb0fe6fcbf954608f2347a8a1bcf1abe4e77b286145b0fc31d44c`
 
 This repository distributes beta installers and instructions. All game and content rights remain with the creator.
