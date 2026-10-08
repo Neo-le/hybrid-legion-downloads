@@ -4,17 +4,27 @@ Hatch, collect, and fuse monsters into a team of four. Battles run automatically
 
 ## Download / 다운로드
 
-**[Android APK — 1.0 (14), about 391 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-14/HybridLegion-1.0-14.apk)**
+**[Android APK — 1.0 (16), about 391 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-16/HybridLegion-1.0-16.apk)**
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-**[iPhone / iPad — 1.0 (14), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (14) is available for external testing. / iPhone·iPad 1.0 (14) 외부 테스트를 배포했습니다.
+**[iPhone / iPad — 1.0 (16), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (16) is available for external testing. / iPhone·iPad 1.0 (16) 외부 테스트 중입니다.
 
-## Build 14 / 14번 빌드
+## Build 16 / 16번 빌드
 
-Closer melee contact and smoother knockback; a daily free Rare Egg; buy 1 or 10 eggs; continuous hatching and full odds; a combined Monster and Growth screen; touch scrolling; growth suggestions after defeat; and balance updates in later regions. No account linking is required.
+Selected weaker melee and short-range monsters now have improved combat stats or reach, with related fusion results adjusted too. Healers and direct shield supports move toward an ally when their ready skill has no valid target in range. Poison and burn damage is credited to its caster in battle statistics.
 
-근접 타격·피격·넉백, 매일 레어 알, 1개/10개 구매, 연속 부화와 확률표, 통합 몬스터 화면과 손가락 스크롤, 패배 후 성장 추천과 후반 지역 밸런스를 개선했습니다. 계정 연동 없이 플레이할 수 있습니다.
+일부 약한 근접·짧은 사거리 몬스터의 전투 수치나 사거리를 개선하고 관련 합성체도 조정했습니다. 회복·직접 보호막 지원 유닛은 준비된 스킬의 범위 안에 대상이 없으면 아군에게 접근합니다. 독·화상 피해도 시전자의 전투 기록에 반영됩니다.
+
+Fusion now inherits an invested parent's stat allocation, combines XP, and keeps the higher rarity. Check HP, attack, damage reduction, combat power, and both parents' roles against the result before fusing. Some golem hybrids have improved survivability.
+
+Slots 1–2 are the front and 3–4 are the rear. Front-line tanks lead the opening advance and use nearby taunts to protect allies. Boss taunts are shorter, and committed boss patterns continue. Your selected 1x/2x battle speed stays selected across battles and app restarts.
+
+합성 시 투자한 부모의 스탯 배분과 XP·높은 등급을 계승합니다. 합성 전 HP·공격·피해 감소·전투력, 두 부모와 결과의 역할을 비교할 수 있으며 일부 골렘 합성체의 생존 수치를 보강했습니다.
+
+편성 1·2번은 전열, 3·4번은 후열입니다. 전열 탱커가 먼저 진입하고 범위 도발로 아군을 보호합니다. 보스 도발은 짧게 적용되며 진행 중인 패턴은 유지됩니다. 선택한 1배속·2배속은 다음 전투와 앱 재실행 후에도 유지됩니다.
+
+Some fusions change into healing or damage roles; check the result's role and skill. Team composition, formation, and the enemy lineup still matter. / 힐러·공격형으로 역할이 바뀌는 합성도 있으므로 결과 역할과 스킬을 확인해 주세요. 편성·배치·적 구성에 따라 성능은 달라집니다.
 
 ## English / 한국어
 
@@ -25,7 +35,7 @@ Build 13 adds English and Korean. Go to **Settings → Language → English / �
 ## Install on Android / Android 설치
 
 1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
-2. Open `HybridLegion-1.0-14.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+2. Open `HybridLegion-1.0-16.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
 3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud save and account recovery are not connected.
 
 1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
@@ -44,8 +54,8 @@ This is a free beta with no real purchases. Progress stays on the device. Physic
 
 ## File verification / 파일 확인
 
-- Version: 1.0 (14)
-- Size: 390,894,295 bytes
-- SHA-256: `46d824010b4eb0fe6fcbf954608f2347a8a1bcf1abe4e77b286145b0fc31d44c`
+- Version: 1.0 (16)
+- Size: 390,968,371 bytes
+- SHA-256: `f75556ac89362e6492fc2dba88122d139d493915dbe1aaa112a42c268529bb01`
 
 This repository distributes beta installers and instructions. All game and content rights remain with the creator.
