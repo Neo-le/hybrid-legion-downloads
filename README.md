@@ -1,16 +1,28 @@
 # Hybrid Legion — Free Beta / 무료 테스트
 
-Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 17 has 105 collectible monsters, 50 fusion recipes, and 30 regions.
+Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 18 has 105 collectible monsters, 50 fusion recipes, and 30 regions.
 
 ## Download / 다운로드
 
-**[Android APK — 1.0 (17), about 429 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-17/HybridLegion-1.0-17.apk)**
+**[Android APK — 1.0 (18), about 435 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-18/HybridLegion-1.0-18.apk)**
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-**[iPhone / iPad — 1.0 (17), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (17) is available for external testing. / iPhone·iPad 1.0 (17) 외부 테스트 중입니다.
+**[iPhone / iPad — 1.0 (17), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (17) is available for external testing. Build 18 has been uploaded but is not available to testers yet. / iPhone·iPad 1.0 (17) 외부 테스트 중입니다. 18번은 업로드 완료 후 테스트 배포 절차를 진행 중입니다.
 
-## Build 17 / 17번 빌드
+## Build 18 / 18번 빌드
+
+Duplicate recycling and shard exchange, same-species/same-rarity ascension up to +3, later-region balance changes, and automatic repeat/next battle with a cancellable five-second countdown are now available.
+
+중복 분해·파편 교환, 같은 종·같은 등급 +3 강화, 후반 밸런스 조정, 취소 가능한 5초 카운트다운 후 반복·다음 전투 진행이 추가됐습니다.
+
+Optional account connection and cloud backup are in **Settings → Account & backup**. Signing in only checks backups. Choose the first upload yourself; changed progress then backs up automatically. Restores and conflicts require your choice. Different saves' currency and monsters are not merged.
+
+**설정 → 계정·백업**에서 선택적으로 로그인하고 백업할 수 있습니다. 로그인만으로 진행을 업로드하거나 덮어쓰지 않습니다. 첫 백업을 선택하면 이후 변경분을 자동 저장하며, 복구·충돌 기록은 직접 선택합니다. 서로 다른 기록의 재화·몬스터는 합치지 않습니다.
+
+[Privacy policy / 개인정보처리방침](PRIVACY.md) · [Support / 문의](SUPPORT.md) · [contact@myeotpro.com](mailto:contact@myeotpro.com)
+
+## Divine guardians / 신수
 
 Five Divine Legendary guardians join the collection: Azure Dragon, White Tiger, Vermilion Bird, Black Tortoise and Golden Qilin. They are obtained from Divine Eggs and cannot be consumed in fusion. Divine Egg unlocks after 6-BOSS and costs 6,000 in-game gold. Base odds are Rare 85%, Epic 12%, Divine Legendary 3%; after 39 consecutive misses, the next hatch guarantees a Divine. The first five Divine wins give undiscovered guardians.
 
@@ -45,12 +57,12 @@ Build 13 adds English and Korean. Go to **Settings → Language → English / �
 ## Install on Android / Android 설치
 
 1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
-2. Open `HybridLegion-1.0-17.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
-3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud save and account recovery are not connected.
+2. Open `HybridLegion-1.0-18.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud backup is optional; choose and verify a backup before uninstalling or changing devices.
 
 1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
 2. APK를 열어 설치합니다. 요청되면 해당 브라우저·파일 앱의 `이 출처 허용 / 알 수 없는 앱 설치`를 허용하고, 설치 후에는 다시 끌 수 있습니다.
-3. **기존 앱을 삭제하지 말고 업데이트하세요.** 진행은 기기 로컬에 저장되며 클라우드 저장·복구는 연결돼 있지 않습니다.
+3. **기존 앱을 삭제하지 말고 업데이트하세요.** 진행은 기기에 저장되며 클라우드 백업은 선택 기능입니다. 앱 삭제·기기 변경 전에 백업을 선택하고 확인하세요.
 
 ## Feedback / 피드백
 
@@ -58,14 +70,14 @@ Try playing for 10–15 minutes. We would love feedback on the early difficulty,
 
 첫 플레이·합성 이해도·초반 난이도·영어 표현·화면 문제·끊김·종료 문제를 알려 주세요. 기종·OS·빌드·진행 위치를 함께 적으면 도움이 됩니다.
 
-This is a free beta with no real purchases. Progress stays on the device. Physical device testing is ongoing.
+This is a free beta with no real purchases or ads. Local play works without signing in. Physical device testing is ongoing.
 
-무료 테스트이며 실제 결제는 연결돼 있지 않습니다. 진행은 기기에 저장됩니다. 실기기 검증은 계속 진행합니다.
+실제 결제·광고 없는 무료 베타입니다. 로그인 없이 기기 저장으로 플레이할 수 있습니다. 실기기 검증은 계속 진행합니다.
 
 ## File verification / 파일 확인
 
-- Version: 1.0 (17)
-- Size: 429,086,947 bytes
-- SHA-256: `a26ae00d083407c7aaf7c6745073309176563024c94bf4cc7643e742f66d8c73`
+- Android version: 1.0 (18)
+- Size: 434,644,476 bytes
+- SHA-256: `53e52e524e4daf0e82b360b24e11ba2296168d648a095031a8c6d8305db35c21`
 
 This repository distributes beta installers and instructions. All game and content rights remain with the creator.
