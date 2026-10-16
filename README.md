@@ -1,6 +1,6 @@
 # Hybrid Legion — Free Beta / 무료 테스트
 
-Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Android build 19 has 115 collectible monsters, 50 fusion recipes, and 31 regions.
+Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 19 has 115 collectible monsters, 50 fusion recipes, and 31 regions.
 
 ## Download / 다운로드
 
@@ -8,9 +8,7 @@ Hatch, collect, and fuse monsters into a team of four. Battles run automatically
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-**[iPhone / iPad — 1.0 (18), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (18) is available for external testing. / iPhone·iPad 1.0 (18) 외부 테스트 중입니다.
-
-iOS 1.0 (19) has been uploaded and is processing at Apple; the external TestFlight link above currently offers build 18. / iOS 19번은 Apple 처리 중이며 현재 외부 테스트 링크에서는 18번을 받을 수 있습니다.
+**[iPhone / iPad — 1.0 (19), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (19) is available for internal and external testing. / iPhone·iPad 1.0 (19) 내부·외부 테스트 중입니다.
 
 ## Build 19 / 19번 빌드
 
