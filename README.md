@@ -1,16 +1,28 @@
 # Hybrid Legion — Free Beta / 무료 테스트
 
-Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 18 has 105 collectible monsters, 50 fusion recipes, and 30 regions.
+Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Android build 19 has 115 collectible monsters, 50 fusion recipes, and 31 regions.
 
 ## Download / 다운로드
 
-**[Android APK — 1.0 (18), about 435 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-18/HybridLegion-1.0-18.apk)**
+**[Android APK — 1.0 (19), about 476 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-19/HybridLegion-1.0-19.apk)**
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
 **[iPhone / iPad — 1.0 (18), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (18) is available for external testing. / iPhone·iPad 1.0 (18) 외부 테스트 중입니다.
 
-## Build 18 / 18번 빌드
+iOS 1.0 (19) has been uploaded and is processing at Apple; the external TestFlight link above currently offers build 18. / iOS 19번은 Apple 처리 중이며 현재 외부 테스트 링크에서는 18번을 받을 수 있습니다.
+
+## Build 19 / 19번 빌드
+
+Region 31, **Jade Cloudgrove**, adds twelve stages and a boss battle after 30-BOSS, bringing the campaign to 403 battles. Ten new collectible monsters bring the collection to 115. Each has idle, walk, attack and skill animations across eight directions, with dedicated skill effects. The region has a new battle background and world-map island; its enemy lineup and music reuse existing assets.
+
+신규 31지역 **비취 운림**이 추가됐습니다. 30-BOSS를 클리어하면 일반 스테이지 12개와 보스전에 도전할 수 있으며, 전체 전투는 403개입니다. 신규 수집 몬스터 10종을 더해 총 115종이며, 각 몬스터에 8방향 대기·걷기·공격·스킬 동작과 전용 효과를 적용했습니다. 전투 배경과 월드맵 섬은 신규 제작했고 적 구성·배경음악은 기존 자산을 사용합니다.
+
+Please test movement and skills, region unlocks, egg collection, and performance on your device. **Update the existing installation without uninstalling.**
+
+이동·스킬·지역 해금·알 부화·기기 성능을 확인해 주세요. **기존 앱을 삭제하지 말고 업데이트하세요.**
+
+## Build 18 improvements retained / 18번 개선 유지
 
 Duplicate recycling and shard exchange, same-species/same-rarity ascension up to +3, later-region balance changes, and automatic repeat/next battle with a cancellable five-second countdown are now available.
 
@@ -26,7 +38,7 @@ Optional account connection and cloud backup are in **Settings → Account & bac
 
 Five Divine Legendary guardians join the collection: Azure Dragon, White Tiger, Vermilion Bird, Black Tortoise and Golden Qilin. They are obtained from Divine Eggs and cannot be consumed in fusion. Divine Egg unlocks after 6-BOSS and costs 6,000 in-game gold. Base odds are Rare 85%, Epic 12%, Divine Legendary 3%; after 39 consecutive misses, the next hatch guarantees a Divine. The first five Divine wins give undiscovered guardians.
 
-청룡·백호·주작·현무·기린이 추가되어 수집 105종입니다. 신수는 전용 알에서만 획득하며 합성 재료로 소모되지 않습니다. 6-BOSS 이후 신수의 알을 6,000골드에 구매합니다. 기본 확률은 레어 85%·에픽 12%·신수 3%이며, 연속 미획득 39회 다음 부화는 신수 확정입니다. 최초 신수 5회 당첨은 미발견 종이 나옵니다.
+청룡·백호·주작·현무·기린 5종의 신수도 계속 수집할 수 있습니다. 신수는 전용 알에서만 획득하며 합성 재료로 소모되지 않습니다. 6-BOSS 이후 신수의 알을 6,000골드에 구매합니다. 기본 확률은 레어 85%·에픽 12%·신수 3%이며, 연속 미획득 39회 다음 부화는 신수 확정입니다. 최초 신수 5회 당첨은 미발견 종이 나옵니다.
 
 100 new native animation clips with 2,700 stored frames support eight directions, with dedicated attack and skill effects. Please test movement, mixed-team roles, healing/cleanse, 2× battle speed and heat on your device.
 
@@ -57,7 +69,7 @@ Build 13 adds English and Korean. Go to **Settings → Language → English / �
 ## Install on Android / Android 설치
 
 1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
-2. Open `HybridLegion-1.0-18.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+2. Open `HybridLegion-1.0-19.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
 3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud backup is optional; choose and verify a backup before uninstalling or changing devices.
 
 1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
@@ -76,8 +88,8 @@ This is a free beta with no real purchases or ads. Local play works without sign
 
 ## File verification / 파일 확인
 
-- Android version: 1.0 (18)
-- Size: 434,644,476 bytes
-- SHA-256: `53e52e524e4daf0e82b360b24e11ba2296168d648a095031a8c6d8305db35c21`
+- Android version: 1.0 (19)
+- Size: 475,711,900 bytes
+- SHA-256: `027d80100cb933f97dbdb7cc1d0b72cd855a256b8d4521e83ac88a8bf0e8f01c`
 
 This repository distributes beta installers and instructions. All game and content rights remain with the creator.
