@@ -1,24 +1,32 @@
 # Hybrid Legion — Free Beta / 무료 테스트
 
-Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 19 has 115 collectible monsters, 50 fusion recipes, and 31 regions.
+Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Android build 20 has 200 collectible monsters, 93 fusion recipes, and 116 regions (1,508 battles).
 
 ## Download / 다운로드
 
-**[Android APK — 1.0 (19), about 476 MB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-19/HybridLegion-1.0-19.apk)**
+**[Android APK — 1.0 (20), about 1.48 GB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-20/HybridLegion-1.0-20.apk)**
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
 **[iPhone / iPad — 1.0 (19), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (19) is available for internal and external testing. / iPhone·iPad 1.0 (19) 내부·외부 테스트 중입니다.
 
-## Build 19 / 19번 빌드
+**Build 20 iOS upload is in progress; the 200-monster / 116-region expansion is not yet available on TestFlight.** iPhone and iPad testers currently receive build 19.
 
-Region 31, **Jade Cloudgrove**, adds twelve stages and a boss battle after 30-BOSS, bringing the campaign to 403 battles. Ten new collectible monsters bring the collection to 115. Each has idle, walk, attack and skill animations across eight directions, with dedicated skill effects. The region has a new battle background and world-map island; its enemy lineup and music reuse existing assets.
+**iOS 20번 빌드는 업로드 중이며, 200종·116지역 확장판은 아직 TestFlight에서 받을 수 없습니다.** 현재 iPhone·iPad 테스터에게 제공되는 버전은 19번입니다.
 
-신규 31지역 **비취 운림**이 추가됐습니다. 30-BOSS를 클리어하면 일반 스테이지 12개와 보스전에 도전할 수 있으며, 전체 전투는 403개입니다. 신규 수집 몬스터 10종을 더해 총 115종이며, 각 몬스터에 8방향 대기·걷기·공격·스킬 동작과 전용 효과를 적용했습니다. 전투 배경과 월드맵 섬은 신규 제작했고 적 구성·배경음악은 기존 자산을 사용합니다.
+## Build 20 / 20번 빌드
 
-Please test movement and skills, region unlocks, egg collection, and performance on your device. **Update the existing installation without uninstalling.**
+The collection grows from 115 to **200 monsters**: 42 new base species and 43 new fusion species. The campaign grows from 31 to **116 regions**, each with twelve normal battles and one boss, for **1,508 battles**. Region 31 courtyard alignment is corrected. Clearing region 31 opens region 32.
 
-이동·스킬·지역 해금·알 부화·기기 성능을 확인해 주세요. **기존 앱을 삭제하지 말고 업데이트하세요.**
+수집 몬스터가 115종에서 **200종**으로 늘어났습니다. 기본종 42종과 합성 전용 43종을 추가했습니다. 메인 지역은 31개에서 **116개**로 확장했으며, 지역마다 일반전 12개와 보스전 1개로 총 **1,508전투**입니다. 31지역 광장 배치를 수정했고, 31지역을 클리어하면 32지역부터 이어집니다.
+
+New monsters have idle, walking, attack and skill animations across eight directions. Added 85 battle backgrounds and 85 world-map islands. Each new regional egg contains six base species, with overlap between regions. New base species or fusion recipes unlock as regions open; fusion-only monsters and Divine guardians are not in regional eggs. Existing egg rarity odds remain unchanged. Existing enemies and regional music are reused.
+
+신규 몬스터에 8방향 대기·이동·공격·스킬 동작, 전투 배경 85장과 월드맵 섬 85장을 추가했습니다. 신규 지역 알은 지역당 기본종 6종 풀이며 지역끼리 중복됩니다. 각 지역에서 새로운 기본종 또는 합성 레시피가 해금됩니다. 합성 전용종·신수는 지역 알에 포함되지 않고, 기존 알 등급 확률은 유지합니다. 적 구성·지역 음악은 기존 자산을 재사용합니다.
+
+Please test new movement and skills, fusion inheritance, region unlocks, courtyard placement, difficulty and performance on your device. Crowded battles can still have overlapping overhead names, health bars and damage labels. **Update the existing installation without uninstalling.**
+
+신규 동작·스킬·합성 계승·지역 해금·광장 위치·난이도·기기 성능을 확인해 주세요. 밀집 전투의 머리 위 이름·체력·데미지 표시가 겹치는 가독성은 알려진 개선 항목입니다. **기존 앱을 삭제하지 말고 업데이트하세요.**
 
 ## Build 18 improvements retained / 18번 개선 유지
 
@@ -67,7 +75,7 @@ Build 13 adds English and Korean. Go to **Settings → Language → English / �
 ## Install on Android / Android 설치
 
 1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
-2. Open `HybridLegion-1.0-19.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+2. Open `HybridLegion-1.0-20.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
 3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud backup is optional; choose and verify a backup before uninstalling or changing devices.
 
 1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
@@ -86,8 +94,8 @@ This is a free beta with no real purchases or ads. Local play works without sign
 
 ## File verification / 파일 확인
 
-- Android version: 1.0 (19)
-- Size: 475,711,900 bytes
-- SHA-256: `027d80100cb933f97dbdb7cc1d0b72cd855a256b8d4521e83ac88a8bf0e8f01c`
+- Android version: 1.0 (20)
+- Size: 1,481,252,456 bytes
+- SHA-256: `70c3095afb3d400a4ecc7f6ed66c48396df07e13e59ad72fa1c14db3ade08e7d`
 
 This repository distributes beta installers and instructions. All game and content rights remain with the creator.
