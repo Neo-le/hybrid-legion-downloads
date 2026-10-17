@@ -1,16 +1,24 @@
 # Hybrid Legion — Free Beta / 무료 테스트
 
-Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 20 has 200 collectible monsters, 93 fusion recipes, and 116 regions (1,508 battles).
+Hatch, collect, and fuse monsters into a team of four. Battles run automatically, with skills you can also cast manually. Build 22 has 200 collectible monsters, 93 fusion recipes, and 116 regions (1,508 battles).
 
 ## Download / 다운로드
 
-**[Android APK — 1.0 (20), about 1.48 GB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-20/HybridLegion-1.0-20.apk)**
+**[Android APK — 1.0 (22), about 1.48 GB](https://github.com/Neo-le/hybrid-legion-downloads/releases/download/android-1.0-22/HybridLegion-1.0-22.apk)**
 
 Android 8.0 or later · ARM64 devices. This APK cannot be installed on an iPhone.
 
-**[iPhone / iPad — 1.0 (20), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (20) is available for internal and external testing. / iPhone·iPad 1.0 (20) 내부·외부 테스트 중입니다.
+**[iPhone / iPad — 1.0 (22), Join TestFlight](https://testflight.apple.com/join/jcdpJ4M7)** · iOS/iPadOS 16 or later for the current TestFlight app. Build 1.0 (22) has been released to internal and external testers; if TestFlight still offers 1.0 (20), the update appears once Apple's beta review finishes. / iPhone·iPad 1.0 (22)을 내부·외부 테스트에 배포했습니다. TestFlight에 아직 1.0 (20)이 보이면 Apple 베타 심사가 끝난 뒤 업데이트가 나타납니다.
 
-## Build 20 / 20번 빌드
+## Build 22 / 22번 빌드
+
+Role balance update. Healing, regeneration, shields and melee attackers contribute more, and shields protect threatened allies ahead of time. Auto Team places a tank in front, keeps room for ranged attackers, and compares monsters as if their unspent stat points followed the suggestion. The Monsters screen adds role-based **Suggest Stats** (a preview until you tap Apply Points); ranged healers and shielders suggest Focus, then Strength. Weak ranged, melee and tank species were strengthened, and difficulty spikes in regions 32–39 were smoothed. The late game is easier than in build 20. Egg odds, fusion recipes, rewards and saves are unchanged. Build 21 was not published, so this updates build 20 directly.
+
+역할 밸런스 업데이트입니다. 회복·지속 회복·보호막과 근접 공격수의 기여를 높였고, 보호막은 위협받는 아군을 미리 보호합니다. 자동 편성은 탱커를 앞에 두고 원거리 공격수 자리를 확보하며, 남은 스탯 포인트를 추천대로 배분했을 때의 전투력으로 비교합니다. 몬스터 화면에 역할별 **추천 배분**을 추가했습니다(‘배분 적용’을 눌러야 저장). 원거리 회복·보호막은 집중→힘 순서를 추천합니다. 약한 원거리·근접·탱커 몬스터를 보강했고 32~39지역의 급격한 난이도 상승을 완화했습니다. 후반은 20번보다 쉬워졌습니다. 알 확률·합성식·보상·저장은 그대로입니다. 21번은 공개하지 않았으므로 20번에서 바로 업데이트합니다.
+
+Please tell us about formation and stat suggestions, how useful healing and shields feel, and bosses that are too hard or too easy. **Update the existing installation without uninstalling.** / 편성·스탯 추천, 회복·보호막 체감, 너무 어렵거나 쉬운 보스를 알려 주세요. **기존 앱을 삭제하지 말고 업데이트하세요.**
+
+## Build 20 content / 20번 빌드 콘텐츠
 
 The collection grows from 115 to **200 monsters**: 42 new base species and 43 new fusion species. The campaign grows from 31 to **116 regions**, each with twelve normal battles and one boss, for **1,508 battles**. Region 31 courtyard alignment is corrected. Clearing region 31 opens region 32.
 
@@ -71,7 +79,7 @@ Build 13 adds English and Korean. Go to **Settings → Language → English / �
 ## Install on Android / Android 설치
 
 1. Open the APK download link in your phone's browser. If an in-app browser cannot download it, open the link in Chrome or your usual browser.
-2. Open `HybridLegion-1.0-20.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
+2. Open `HybridLegion-1.0-22.apk` and install it. If Android requests permission, allow this browser or file app to install the APK. You can turn that permission off after installation.
 3. **Update your existing installation; keep the app installed to preserve your progress.** Progress is saved on your device. Cloud backup is optional; choose and verify a backup before uninstalling or changing devices.
 
 1. 휴대폰 브라우저에서 APK 링크를 열고 다운로드합니다.
@@ -90,8 +98,8 @@ This is a free beta with no real purchases or ads. Local play works without sign
 
 ## File verification / 파일 확인
 
-- Android version: 1.0 (20)
-- Size: 1,481,252,456 bytes
-- SHA-256: `70c3095afb3d400a4ecc7f6ed66c48396df07e13e59ad72fa1c14db3ade08e7d`
+- Android version: 1.0 (22)
+- Size: 1,481,295,524 bytes
+- SHA-256: `a8b9677961375da0c7b2dbf521b3088b427182f0e920a2be4550f2d3068a914d`
 
 This repository distributes beta installers and instructions. All game and content rights remain with the creator.
